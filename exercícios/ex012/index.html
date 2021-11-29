@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Vídos com HTML5</title>
+</head>
+<body>
+    <h1>Inserindo vídeos hospedados localmente</h1>
+    <p>Este vídeo está hospedado no meu própio servidor.</p>
+    <video width="300" poster="Imagens/IMG2.jpeg" controls autoplay loop> <!--Quanto maior o número d sources, maior a compatibilidade com outros navegadores-->
+        <source src="Midia/Meu-Vídeo.ogv" type="video/ogg">
+        <source src="Midia/Meu-Vídeo.mp4" type="video/mp4">
+        <p>Seu navegador não suposta este arquivo.</p>
+    </video>
+
+    <h1>Inserindo vídeos do YouTube/Vimeo</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/XgiCdWX8D2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
