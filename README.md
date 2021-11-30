@@ -23,3 +23,4 @@ Estou aprendendo a criar sites e gerenciar meus repositórios!
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex019/index.html">Executar o exercício 019</a>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex020/index.html">Executar o exercício 020</a>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex021/index.html">Executar o exercício 021</a>
+veja abaixo os desafios!
