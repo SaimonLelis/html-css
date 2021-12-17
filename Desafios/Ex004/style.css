@@ -13,3 +13,51 @@
     font-weight: normal;
     font-style: normal;
 }
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 1em;
+}
+body{
+    background-color: white;
+}
+
+header{
+    background-color: black;
+    color:white;
+    margin: auto;
+    padding: 0px;
+    text-align: center;
+}
+
+header > h1{
+    font: normal 10vw Ftitulo;
+    padding-top: 50px;
+}
+
+header > p{
+    font: normal 1em Verdana;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+section{
+    font: normal 3.5vw Ftexto;
+    line-height: 2em;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 30px;
+}
+
+section.normal{
+    background-color: white;
+    color:black;
+}
+
+section.imagem{}
