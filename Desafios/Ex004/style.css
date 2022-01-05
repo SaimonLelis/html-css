@@ -42,17 +42,15 @@ header > p{
     /*display: block; */
 }
 
-header a{
+header a:hover, footer a:hover{
+    text-decoration: underline;
+}
+
+header a, footer a{
     color: white;
     text-decoration: none;
     font-weight: bold;
 }
-
-a:-webkit-any-link{
-    text-decoration: underline;
-    cursor: pointer;
-}
-
 
 section{
     font: normal 3.5vw Ftexto;
@@ -74,6 +72,11 @@ section.imagem{
     box-shadow: rgba(0, 0, 0, 0.470) inset 6px 6px 13px 0px;
     
 }
+
+section.normal > p{
+    margin-bottom: 40px;
+}
+
 section#img01{
     background-image:url('imagens/background001.jpg') ;
     background-position: right center;
