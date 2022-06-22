@@ -1,0 +1,129 @@
+    <!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tabelas grander</title>
+        <style>
+            body{
+                font-family: Arial;
+            }
+            table{
+                width: 600px;
+                border-collapse: collapse;
+                text-align: center;
+                vertical-align: middle;
+            }
+            th{
+                border: 1px solid black;
+                background-color: rgb(109, 109, 109);
+                color: white;
+                padding: 3px;
+            }
+            td{
+                border: 1px solid black;
+                padding: 3px;
+            }
+            tfoot{
+                border: 1px solid black;
+                background-color: rgb(141, 141, 141);
+                color: white;
+                padding: 3px;
+                font-weight: bolder;
+            }
+            .num{
+                text-align: end;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Tabela grande</h1>
+        <!--
+            THEAD
+                TR, TD, TH
+            TBODY
+                TR, TD, TH
+            TFOOT
+                TR, TD, TH
+        -->
+        <table>
+            <thead>
+                <tr>
+                    <th>Posição</th>
+                    <th>Unidade federativa</th>
+                    <th>População 2021</th>
+                    <th>% da pop. total</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>São Paulo</td>
+                    <td class="num">46 649 132</td>
+                    <td>21,9%</td>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Minas Gerais</td>
+                    <td class="num">21 411 923</td>
+                    <td>10,1%</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Rio de Janeiro</td>
+                    <td class="num">17 463 349</td>
+                    <td>8,2%</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Bahia</td>
+                    <td class="num">14 965 284</td>
+                    <td>7,1%</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Paraná</td>
+                    <td class="num">11 597 484</td>
+                    <td>5,4%</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Rio Grande do Sul</td>
+                    <td class="num">11 466 630</td>
+                    <td>5,4%</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Pernambuco</td>
+                    <td class="num">9 674 793</td>
+                    <td>4,5%</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Cerá</td>
+                    <td class="num">8 452 381</td>
+                    <td>4,3%</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>Pará</td>
+                    <td class="num">8 777 124</td>
+                    <td>4,1%</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>Santa catarina</td>
+                    <td class="num">7 338 473</td>
+                    <td>3,4%</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2">Total Habitantes</td>
+                    <td colspan="2">157.796.573</td>
+                </tr>
+            </tfoot>
+        </table>
+    </body>
+    </html>
