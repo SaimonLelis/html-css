@@ -20,7 +20,7 @@ Executar o exercício 8
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex008/index.html">Ex008</a><br>
 Executar o exercício 9
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex009/index.html">Ex009</a><br>
-Executar o exercício 10
+Executar o exercício 10<br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex010/index.html">Ex010</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex010/pag002.html">pag002</a><br>
 Executar o exercício 11
@@ -31,30 +31,30 @@ Executar o exercício 13
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex013/index.html">Ex013</a><br>
 Executar o exercício 14
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex014/index.html">Ex014</a><br>
-Executar o exercício 15
+Executar o exercício 15<br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex015/index.html">Index</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex015/pag002.html">pg2</a><br>
-Executar o exercício 16
+Executar o exercício 16<br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex016/cor01.html">cor01</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex016/cor02.html">cor02</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex016/cor03.html">cor03</a><br>
-Executar o exercício 17
+Executar o exercício 17<br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex017/fonte01.html">Fonte01</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex017/fonte02.html">Fonte02</a><br>
-Executar o exercício 18
+Executar o exercício 18<br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex018/fonte01.html">Fonte01</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex018/fonte02.html">Fonte02</a><br>
 Executar o exercício 19
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex019/seletor01.html">Seletor</a><br>
-Executar o exercício 20
+Executar o exercício 20<br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex020/hover.html">hover</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex020/links.html">links</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex020/pseudoclasse.html">pseudoclasse</a><br>
-Executar o exercício 21
+Executar o exercício 21<br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex021/caixa01.html">Caixa1</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex021/caixa02.html">Caixa2</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex021/caixa03.html">Caixa3</a><br>
-Executar o exercício 22
+Executar o exercício 22<br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex022/fundo001.html">Fundo1</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex022/fundo002.html">Fundo2</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex022/fundo003.html">Fundo3</a><br>
@@ -62,7 +62,7 @@ Executar o exercício 22
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex022/fundo005.html">Fundo5</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex022/fundo006.html">Fundo6</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex022/fundo007.html">Fundo7</a><br>
-Executar o exercício 23
+Executar o exercício 23<br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex023/tabela001.html">Tabela1</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex023/tabela002.html">Tabela2</a><br>
 <a href="https://saimonlelis.github.io/html-css/exercicios/ex023/tabela003.html">Tabela3</a><br>
